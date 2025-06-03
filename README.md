@@ -13,7 +13,7 @@ I am a second-year Computer Science and Artificial Intelligence student at NSUT 
 * Skilled in Python (notably), C++, and problem-solving using DSA
 * Experienced with HTML/CSS, JavaScript, Tailwind CSS, React.js
 * Interested in AI/ML, especially NLP, recommendation systems, and optimization techniques
-* Hackathon Enthusiast – Winner of TRYST'24 IIT Delhi Hackathon and Finalist at Myntra WeForShe 2024
+* Hackathon Enthusiast – Winner of TRYST'24 IIT Delhi Hackathon, Finalist at RaktSetu'24 (Hackathon organised by NSS IIT Delhi) and second round Finalist at Myntra WeForShe 2024
 * Experience working with startups, NGOs, and open innovation sprints
 * Actively learning and practicing Data Structures and Algorithms (DSA) in C++
 * Selected among 10 students from NSUT for an exclusive Campus Tour at Samsung R\&D, Noida
