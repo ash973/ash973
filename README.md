@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a second-year Computer Science and Artificial Intelligence student at NSUT with a strong passion for technology, design, and innovation. My work spans web development, UI/UX design, machine learning, and competitive programming. I enjoy building projects that combine functionality with creativity to solve real-world problems.
+I am a third-year Computer Science and Artificial Intelligence student at NSUT with a strong passion for technology, design, and innovation. My work spans web development, UI/UX design, machine learning, and competitive programming. I enjoy building projects that combine functionality with creativity to solve real-world problems.
 
 * Skilled in Python (notably), C++, and problem-solving using DSA
 * Experienced with HTML/CSS, JavaScript, Tailwind CSS, React.js
