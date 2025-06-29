@@ -9,7 +9,7 @@
 ## About Me
 
 I am a third-year Computer Science and Artificial Intelligence student at NSUT with a strong passion for technology, design, and innovation. My work spans web development, UI/UX design, machine learning, and competitive programming. I enjoy building projects that combine functionality with creativity to solve real-world problems.
-
+Note: This is my new GitHub account – it reflects recent and ongoing work.
 * Skilled in Python (notably), C++, and problem-solving using DSA
 * Experienced with HTML/CSS, JavaScript, Tailwind CSS, React.js
 * Interested in AI/ML, especially NLP, recommendation systems, and optimization techniques
@@ -17,6 +17,7 @@ I am a third-year Computer Science and Artificial Intelligence student at NSUT w
 * Experience working with startups, NGOs, and open innovation sprints
 * Actively learning and practicing Data Structures and Algorithms (DSA) in C++
 * Selected among 10 students from NSUT for an exclusive Campus Tour at Samsung R\&D, Noida
+* Selected as a SheFi Scholar (Season 14) to explore Web3, DeFi, and Blockchain with global women leaders
 * Classical Odissi dancer (15+ years), CCRT Scholar, and G20 Cultural Performer
 
 
