@@ -33,7 +33,6 @@ Note: This is my new GitHub account – it reflects recent and ongoing work.
 
 * Spectrum Connect – Inclusive platform supporting neurodiverse communication and accessibility-first design
 * DoubtX – Real-time collaborative doubt-solving platform for students and academic groups
-* Snapler (by Fitler) – A smart calorie tracker and nutrition assistant with food logging, UI customizations, and health insights
 * Myntra WeForShe Hackathon Website – Full-featured prototype with AI-driven Digital Wardrobe Recommender, Virtual Fashion Show experience, Groove & Shop (motion-based shopping), and Eco & Ethnic section for conscious fashion
 
 ### Ed-Tech and Impact
