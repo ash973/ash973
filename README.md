@@ -18,6 +18,7 @@ Note: This is my new GitHub account – it reflects recent and ongoing work.
 * Actively learning and practicing Data Structures and Algorithms (DSA) in C++
 * Selected among 10 students from NSUT for an exclusive Campus Tour at Samsung R\&D, Noida
 * Selected as a SheFi Scholar (Season 14) to explore Web3, DeFi, and Blockchain with global women leaders
+* Regular coder at TUF+ | Passionate about building accessible, AI-powered EdTech solutions.
 * Classical Odissi dancer (15+ years), CCRT Scholar, and G20 Cultural Performer
 
 
