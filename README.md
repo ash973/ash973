@@ -41,6 +41,13 @@ Note: This is my new GitHub account – it reflects recent and ongoing work.
 * Delinotes – Contributed as a frontend developer and content writer for this ed-tech platform, which was selected for funding and mentorship by Ciena and NASSCOM Foundation in 2024
 * NGO and Outreach Projects – Content creation, teaching, and volunteering with Pehchaan – The Street School, Shiksha Kendra, and Prayas (NSUT’s social welfare society)
 
+### 🖥️ LeetCode Stats
+
+- ✅ Solved 100+ problems across Easy, Medium, and Hard levels  
+- 🌟 Current Contest Rating: **1835**  
+- 🚀 Actively participating in weekly contests  
+- 📈 Still exploring DSA & learning new problem-solving strategies  
+- 🔗 [LeetCode Profile](https://leetcode.com/u/ashhh__123__/)
 
 ## Connect with Me
 
